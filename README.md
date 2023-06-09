@@ -49,10 +49,8 @@ Shout out to @AskBCS and David Fuko for help!
     - Div alternatives
 - Readme template
   - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-- 
-
-
-
+- Adding a screenshot to readme
+  - https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
 
 
 ## License
