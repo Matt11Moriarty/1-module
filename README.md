@@ -5,7 +5,7 @@
 This repository contains starter code from an existing website for an SEO agency.
 I have refactored the code, making it more readable and adding comments to improve readability.
 
-https://matt11moriarty.github.io/1-module/#online-reputation-management
+https://matt11moriarty.github.io/1-module/
 
 - This was done so that any one who would like to view this site and it's code can more easily understand how it is formatted with HTML and CSS.
 - Previously, the code was in a confusing state and was fairly unreadable. 
