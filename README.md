@@ -39,7 +39,13 @@ https://matt11moriarty.github.io/1-module/#online-reputation-management
 Source code was from github user Xandromus:
 https://github.com/coding-boot-camp/urban-octo-telegram
 
-Shout out to @AskBCS and David Fuko for help 
+Shout out to @AskBCS and David Fuko for help! 
+
+- Articles
+  - https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036
+    - Div alternatives
+
+
 
 ## License
 
