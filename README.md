@@ -32,7 +32,7 @@ N/A
 ## Usage
 
 Visit the site at the following link: 
-https://matt11moriarty.github.io/1-module/#online-reputation-management
+https://matt11moriarty.github.io/1-module/
 
 ![alt text](./assets/images/Screenshot%202023-06-09%2011-38-34.png)
 
