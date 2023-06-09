@@ -34,6 +34,8 @@ N/A
 Visit the site at the following link: 
 https://matt11moriarty.github.io/1-module/#online-reputation-management
 
+![alt text](./assets/images/Screenshot%202023-06-09%2011-38-34.png)
+
 ## Credits
 
 Source code was from github user Xandromus:
@@ -43,8 +45,12 @@ Shout out to @AskBCS and David Fuko for help!
 
 - Articles
   - https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036
+  - https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/
     - Div alternatives
-
+- Readme template
+  - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- Adding a screenshot to readme
+  - https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
 
 
 ## License
