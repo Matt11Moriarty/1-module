@@ -43,7 +43,11 @@ Shout out to @AskBCS and David Fuko for help!
 
 - Articles
   - https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036
+  - https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/
     - Div alternatives
+  - 
+
+
 
 
 
