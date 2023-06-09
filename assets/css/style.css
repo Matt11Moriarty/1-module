@@ -34,7 +34,7 @@ header h1 {
     font-size: 48px;
 }
 
-/* changed the middle part of the header to white */
+/* changes the middle part of the header to white */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -206,13 +206,13 @@ header div ul li {
 /* 
 FOOTER FORMATTING 
 */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
